@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#5F5FFA</color>
+    <color name="peach">#FA9C6B</color>
+    <color name="yellow">#FAE484</color>
+    <color name="worsttip">#FA1706</color>
+    <color name="besttip">#00A726</color>
+</resources>
